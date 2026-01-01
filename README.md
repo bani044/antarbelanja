@@ -245,11 +245,7 @@ vercel --prod
 
 **Video Tutorial**: 
 
-<video width="100%" controls>
-  <source src="assets-docs/tutorial-atur-subdomain.mp4" type="video/mp4">
-  Browser kamu tidak mendukung pemutaran video.
-</video>
-
+[▶️ Lihat Video Tutorial - Atur Subdomain](assets-docs/tutorial-atur-subdomain.mp4)
 
 #### 1. Setup di Vercel
 
